@@ -1,0 +1,68 @@
+Prevent access to the command prompt
+User Configuration > Administrative Templates > System >
+
+Deny all removable storage access
+User Configuration > Administrative Templates > System > Removable Storage Access
+
+Prohibit users from installing unwanted software
+Computer Configuration > Administrative Templates > Windows Components > Windows Installer
+
+Reinforce guest account status settings
+Computer Configuration > Windows Settings > Security Settings > Local Policies > Security Options
+
+Prevent auto-restarts with logged on users during scheduled update installations
+Computer Configuration > Administrative Templates > Windows Component > Windows Update
+
+Monitor changes to your GPO settings
+Computer Configuration > Policies > Windows Settings > Security Settings > Advanced Audit Policy Configuration > Audit Policies/DS Access
+
+Prohibit users from installing unwanted software
+Computer Configuration > Administrative Templates > Windows Components > Windows Installer
+
+Disabling Incognito Tab
+User Configuration > Administrative Templates > Classic Administrative Templates > Google > Chrome > Enable Incognito Mode.
+
+Set Password Length to Higher Limits
+
+Disable Driver Update
+Computer Configuration > Administrative Templates > System > Device Installation > Device Installation Restrictions > Prevent installation of devices that match any of these device IDs
+
+Hide turn off balloon unwanted notification
+User Configuration > Administrative Templates > Start Menu and Taskbar > Turn off all balloon notifications
+
+Turn Off Windows Defender
+Computer Configuration > Administrative Templates > Windows Components > Windows Defender > Turn off Windows Defender
+
+
+
+
+
+
+
+
+
+
+
+
+server			client
+serveros		10pro
+target			initiator
+target server           access Server
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
