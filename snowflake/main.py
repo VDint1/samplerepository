@@ -1,3 +1,5 @@
+import matplotlib
+matplotlib.use('Agg')
 #Python program to create a simple square animation  
 # importing the turtle module  
 import turtle   
